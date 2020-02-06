@@ -1,1 +1,1 @@
-# GPU-trapese-formula
+# GPU-trapeze-formula
